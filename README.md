@@ -4,6 +4,7 @@ This effect I have made for my desert cinematic project. I don't know whether th
 
 If you got any troubles please get touch with me
 http://twitter.com/beefyhead
+
 https://reddit.com/user/sayoojjs
 
 Developed with Unreal Engine 4
