@@ -4,7 +4,7 @@
 
 ### If you got any troubles please get touch with me
 
-http://twitter.com/beefyhead
+http://twitter.com/beefy_head
 
 https://reddit.com/user/sayoojjs
 
