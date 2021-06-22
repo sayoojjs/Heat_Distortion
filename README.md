@@ -1,8 +1,8 @@
 # Heat_Distortion
 
-## This shader I have made for my desert cinematic project. I don't know whether this is suitable for you or not. 
+## This shader I have made for my desert cinematic project, cheaper and simpler without adding more strain to the scene. 
 
-### If you got any troubles please get touch with me
+### If have you got any troubles please get touch with me
 
 sayoojjsmail@gmail.com
 
