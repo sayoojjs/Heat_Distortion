@@ -1,4 +1,4 @@
-# Heat_Distortion
+# Heat_Distortion_shader
 
 ## This shader I have made for my desert cinematic project, cheaper and simpler without adding more strain to the scene. 
 
